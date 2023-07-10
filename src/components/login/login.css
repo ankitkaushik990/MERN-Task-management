@@ -1,0 +1,26 @@
+.login_body {
+  background-image: url("../../components/images/login_bg.jpg");
+}
+
+.login_msg p {
+  font-family: cursive;
+  color: red;
+  font-weight: bolder;
+  font-size: 35px;
+  -webkit-text-stroke: 2px black;
+}
+
+#login_submit-btn {
+  font-size: 18px;
+  justify-content: center;
+  display: flex;
+  border-radius: 50px;
+  width: 7em;
+  align-items: center;
+  height: 3em;
+  background: #31dadb;
+  border-radius: 2px solid black;
+  margin-top: 20px;
+  margin-left: 130px;
+  cursor: pointer;
+}
